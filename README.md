@@ -1,6 +1,6 @@
 # Documentação do Projeto
 
-```markdown
+
 # Calculadora de CO2 - Emissões de Transporte
 
 Uma aplicação web para calcular e visualizar as emissões de dióxido de carbono (CO₂) geradas por diferentes meios de transporte.
@@ -16,7 +16,7 @@ Uma aplicação web para calcular e visualizar as emissões de dióxido de carbo
 
 ## Estrutura do Projeto
 
-```
+
 carbon-calculator/
 ├── index.html              # Página principal
 ├── css/
@@ -28,7 +28,7 @@ carbon-calculator/
 │   ├── ui.js             # Manipulação da interface
 │   └── app.js            # Inicialização e eventos
 └── README.md
-```
+
 
 ## Tecnologias Utilizadas
 
@@ -117,7 +117,7 @@ Sugestões e melhorias são bem-vindas! Sinta-se à vontade para:
 Calculadora de CO2 - Projeto de Conscientização Ambiental
 
 © 2023 - Todos os direitos reservados
-```
+
 
 ##  Instruções de Uso
 
